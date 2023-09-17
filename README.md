@@ -2,7 +2,7 @@
 
 ## AIM:
 
-Implementation of Moving Average Model Using Python.
+Implementation of Moving Average Model Using Python
 
 ## ALGROTHM:
 
